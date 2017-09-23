@@ -1,4 +1,4 @@
-## DoubleDutch features with React Native
+## Web View sections in a DoubleDutch event app
 
 ### Getting Started
 
