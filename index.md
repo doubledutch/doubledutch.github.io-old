@@ -1,6 +1,6 @@
 ## DoubleDutch for developers
 
-The [DoubleDutch](https://doubledutch.me) app is are extensible, offering developers the ability to provide attendees
+[DoubleDutch](https://doubledutch.me) apps are extensible, offering developers the ability to provide attendees
 with rich custom native experiences with minimal development effort.
 
 Build features in hours, not weeks.
