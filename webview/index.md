@@ -44,13 +44,13 @@ For example, to do a search for the current attendee's first and last name on Go
 1. Construct the URL with placeholders:
 
    ```
-   https://google.com/search?q=${user.FirstName}+${user.LastName}`
+   https://google.com/search?q=${user.FirstName}+${user.LastName}
    ```
 
 2. [URL-encode](https://www.urlencoder.org/) it:
 
    ```
-   https%3A%2F%2Fgoogle.com%2Fsearch%3Fq%3D%24%7Buser.FirstName%7D%2B%24%7Buser.LastName%7D`
+   https%3A%2F%2Fgoogle.com%2Fsearch%3Fq%3D%24%7Buser.FirstName%7D%2B%24%7Buser.LastName%7D
    ```
 
 3. Set it as the `redirect_uri` of our redirect page:
