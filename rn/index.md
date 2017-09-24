@@ -18,8 +18,9 @@ npm i -g doubledutch-cli
 
 2. Initialize a new project. This will create a new folder in your current folder.
 
+<!--doubledutch feature init my-feature-->
 ```
-doubledutch feature init my-feature
+bz init my-feature
 ```
 
 3. Run the sample code in the simulator
@@ -38,4 +39,5 @@ npm run ios
 
 ### Reference
 
-[Docs](./reference.md)
+Docs TBD
+<!-- [Docs](./reference.md) -->
