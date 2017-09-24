@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## DoubleDutch for developers
 
-You can use the [editor on GitHub](https://github.com/doubledutch/doubledutch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[DoubleDutch](https://doubledutch.me) apps are extensible, offering developers the ability to provide attendees
+with rich custom native experiences with minimal development effort.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Build features in hours, not weeks.
 
-### Markdown
+- Build cross-platform features quickly with [React Native](https://facebook.github.io/react-native/).
+- Deploy them with our developer tools
+- Use the DoubleDutch Studio to embed features in your DoubleDutch event app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Need a backend for persisting and retrieving data securely?  Don't worry about deploying servers. Connect your feature to [Firebase](https://firebase.google.com/) from [Google Cloud Platform](https://cloud.google.com/) in minutes. Use our preconfigured project, or create your own.
 
-```markdown
-Syntax highlighted code block
+## The tools you love
 
-# Header 1
-## Header 2
-### Header 3
+[React Native](https://facebook.github.io/react-native/), [Firebase](https://firebase.google.com/), and Javascript
 
-- Bulleted
-- List
+### Native features
 
-1. Numbered
-2. List
+Use [React Native](https://facebook.github.io/react-native/) for the frontend and [Firebase](https://firebase.google.com/) for the backend. Connect the two with a few lines of code.
 
-**Bold** and _Italic_ and `Code` text
+[<img src="https://facebook.github.io/react-native/img/favicon.png" height="24" width="24" alt="React Native" /> Get started building React Native features](./rn/index.md) for the DoubleDutch platform.
 
-[Link](url) and ![Image](src)
-```
+### Web views
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Want to simply embed a web page in a DoubleDutch app, with access to basic user and event data?
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/doubledutch/doubledutch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[<img src="https://akamud.gallerycdn.vsassets.io/extensions/akamud/vscode-javascript-snippet-pack/0.1.5/1474455379569/Microsoft.VisualStudio.Services.Icons.Small" height="24" width="24" alt="React Native" /> Get started with web views](./webview/index.md)
