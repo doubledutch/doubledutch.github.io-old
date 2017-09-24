@@ -59,6 +59,8 @@ For example, to do a search for the current attendee's first and last name on Go
    https://ria-static.s3.amazonaws.com/pages/forward.html?redirect_uri=https%3A%2F%2Fgoogle.com%2Fsearch%3Fq%3D%24%7Buser.FirstName%7D%2B%24%7Buser.LastName%7D
    ```
    
+Use this as the final URL for your Web View in the DoubleDutch Studio or CMS. 
+   
 Note that redirecting to a page with email address, username, ID, etc. in the query string is *NOT* a secure method
 of authentication, as it can be easily spoofed.  For secure authentication, a current user token placeholder, `${token}`,
 can be referenced in your URL if your URL is `https://`, e.g.
