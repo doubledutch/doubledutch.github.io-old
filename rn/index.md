@@ -12,8 +12,9 @@ Currently, DoubleDutch developer tools for React Native features are only suppor
 
 1. Install the `doubledutch` command line tools
 
+<!-- npm i -g @doubledutch/cli -->
 ```
-npm i -g doubledutch-cli
+npm i -g bazaar-cli
 ```
 
 2. Initialize a new project. This will create a new folder in your current folder.
