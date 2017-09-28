@@ -12,22 +12,22 @@ Currently, DoubleDutch developer tools for React Native features are only suppor
 
 1. Install the `doubledutch` command line tools
 
-<!-- npm i -g @doubledutch/cli -->
 ```
-npm i -g bazaar-cli
+npm i -g @doubledutch/cli
 ```
 
-2. Initialize a new project. This will create a new folder in your current folder.
+2. Create an empty folder for your project and initialize it.
 
 <!--doubledutch feature init my-feature-->
 ```
-bz init my-feature
+cd ~/code/project
+doubledutch init
 ```
 
 3. Run the sample code in the simulator
 
 ```
-cd my-feature/mobile
+cd ~/code/project/mobile
 npm run ios
 ```
 
