@@ -40,5 +40,9 @@ npm run ios
 
 ### Reference
 
-Docs TBD
-<!-- [Docs](./reference.md) -->
+See documentation for various DoubleDutch platform components:
+
+- [@doubledutch/rn-client - DoubleDutch React Native client](https://www.npmjs.com/package/@doubledutch/rn-client)
+- [@doubledutch/firebase-connector](https://www.npmjs.com/package/@doubledutch/firebase-connector) - Easy realtime backend for your feature
+- [@doubledutch/cli - DoubleDutch developer command line interface](https://www.npmjs.com/package/@doubledutch/cli)
+
