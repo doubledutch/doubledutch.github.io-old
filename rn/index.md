@@ -16,7 +16,8 @@ prior contact with DoubleDutch Engineering.
 
 - [NodeJS]
 - [Yarn]
-- [XCode] (to run in iOS simulator)
+- [XCode] (to run in iOS simulator). If you have not used XCode before, be sure to open it once to
+  accept the EULO and allow it to install the command line developer tools.
 
 ### Getting Started
 
@@ -77,6 +78,14 @@ console.log(client.currentEvent)
 ```
 
 In the simulator, mock data is provided for local development.
+
+### Need a backend for your extension?
+
+[@doubledutch/firebase-connector] provides optional integration with Google Cloud Platform's Firebase suite
+for easy backend development. The default configuration provides access to realtime database references
+in an environment managed by DoubleDutch. Each event's data is sandboxed, and [@doubledutch/firebase-connector]
+provides database references that have various combinations of access control for attendees and event managers.
+See [@doubledutch/firebase-connector] for more details.
 
 ### Publishing your DoubleDutch extension
 
