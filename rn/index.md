@@ -114,7 +114,7 @@ into a DoubleDutch mobile app as a new menu section in the [CMS](https://cms.dou
 be of the form:
 
 ```
-https://firebasestorage.googleapis.com/v0/b/bazaar-179323.appspot.com/o/features%2F{extension_name}%2F{extension_version}%2Fmobile%2Findex.__platform__.0.46.4.manifest.bundle?module={extension_name}&alt=media#plugin
+https://firebasestorage.googleapis.com/v0/b/bazaar-179323.appspot.com/o/extensions%2F{extension_name}%2F{extension_version}%2Fmobile%2Findex.__platform__.0.46.4.manifest.bundle?module={extension_name}&alt=media#plugin
 ```
 
 
@@ -123,7 +123,7 @@ https://firebasestorage.googleapis.com/v0/b/bazaar-179323.appspot.com/o/features
 See documentation for various DoubleDutch platform components:
 
 - [@doubledutch/rn-client].  DoubleDutch React Native client
-- [@doubledutch/firebase-connector].  Easy realtime backend for your feature
+- [@doubledutch/firebase-connector].  Easy realtime backend for your extension
 - [@doubledutch/cli].  DoubleDutch developer command line interface
 
 [@doubledutch/rn-client]: https://www.npmjs.com/package/@doubledutch/rn-client
