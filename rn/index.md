@@ -101,7 +101,7 @@ doubledutch login
 
 You may now publish your extension to DoubleDutch
 
-```
+```bash
 doubledutch publish
 ```
 
