@@ -17,7 +17,7 @@ prior contact with DoubleDutch Engineering.
 - [NodeJS]
 - [Yarn]
 - [XCode] (to run in iOS simulator). If you have not used XCode before, be sure to open it once to
-  accept the EULO and allow it to install the command line developer tools.
+  accept the EULA and allow it to install the command line developer tools.
 
 ### Getting Started
 
