@@ -3,6 +3,18 @@
 The DoubleDutch development platform supports developing standalone extensions that can be hosted
 within the DoubleDutch mobile app. Extensions are written in Javascript using the React Native framework.
 
+## Examples
+
+<table style="border:none;">
+<tr>
+  <td><img src="https://github.com/AdamLiechty/where-in-the-world/raw/master/samples/bay.jpg" width="250px" alt="Bay Area satellite view" /></td>
+  <td><img src="https://github.com/doubledutch/personal-leads/raw/master/personal-leads.png" width="250px" alt="Bay Area satellite view" /></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/AdamLiechty/where-in-the-world">Where in the World?</a></td>
+  <td><a href="https://github.com/doubledutch/personal-leads">Personal Leads</a></td>
+</tr></table>
+
 ## Developer Environment
 
 The developer environment is currently limited to run on a Mac, though you can perform React Native
