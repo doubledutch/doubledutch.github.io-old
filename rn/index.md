@@ -20,7 +20,7 @@ within the DoubleDutch mobile app. Extensions are written in Javascript using th
 The developer environment is currently limited to run on a Mac, though you can perform React Native
 development on other platforms that can easily be moved into a DoubleDutch extension at a later point.
 
-You do not need to have a DoubleDutch developer account in order to start developing new extension.
+You do not need to have a DoubleDutch developer account in order to start developing a new extension.
 DoubleDutch extensions can be written and tested locally in the iOS or Android simulator without any
 prior contact with DoubleDutch Engineering.
 
