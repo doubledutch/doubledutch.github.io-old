@@ -27,7 +27,8 @@ prior contact with DoubleDutch Engineering.
 ### Prerequisites
 
 - [NodeJS]
-- [Yarn]
+- [Yarn] (`brew install yarn`)
+- [Watchman] (`brew install watchman`)
 - [XCode] (to run in iOS simulator). If you have not used XCode before, be sure to open it once to
   accept the EULA and allow it to install the command line developer tools, or simply run `sudo xcodebuild -license accept`
   from the command line.
@@ -149,5 +150,6 @@ See documentation for various DoubleDutch platform components:
 [@doubledutch/firebase-connector]: https://www.npmjs.com/package/@doubledutch/firebase-connector
 [@doubledutch/cli]: https://www.npmjs.com/package/@doubledutch/cli
 [NodeJS]: https://nodejs.org
+[Watchman]: http://brewformulas.org/Watchman
 [Yarn]: https://yarnpkg.com/en/docs/install
 [XCode]: https://developer.apple.com/xcode/
