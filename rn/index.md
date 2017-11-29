@@ -15,6 +15,14 @@ within the DoubleDutch mobile app. Extensions are written in Javascript using th
   <td><a href="https://github.com/doubledutch/personal-leads">Personal Leads</a></td>
 </tr></table>
 
+## Developer Videos
+
+This video quickly illustrate what is possible with the DoubleDutch development kit.
+
+More will be added soon.
+
+[Getting started with the DoubleDutch Development Kit](https://www.youtube.com/watch?v=tz0Fx0YQvS0)
+
 ## Developer Environment
 
 The developer environment is currently limited to run on a Mac, though you can perform React Native
