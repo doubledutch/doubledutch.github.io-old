@@ -17,7 +17,7 @@ within the DoubleDutch mobile app. Extensions are written in Javascript using th
 
 ## Developer Videos
 
-This video quickly illustrate what is possible with the DoubleDutch development kit.
+This video quickly illustrates what is possible with the DoubleDutch development kit.
 
 More will be added soon.
 
