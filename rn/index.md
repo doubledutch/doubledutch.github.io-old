@@ -139,7 +139,7 @@ be of the form:
 https://firebasestorage.googleapis.com/v0/b/bazaar-179323.appspot.com/o/extensions%2F{extension_name}%2F{extension_version}%2Fmobile%2Findex.__platform__.0.46.4.manifest.bundle?module={extension_name}&alt=media#plugin
 ```
 
-Finally, install your extension to that event using the event ID from the URL in the CMS or Studio:
+Finally, install your extension to that event using the event ID from the URL in the CMS:
 
 ```bash
 doubledutch install [event_id]
