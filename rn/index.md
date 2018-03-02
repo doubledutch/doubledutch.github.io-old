@@ -131,8 +131,7 @@ To update an extension you have already published, first update the version numb
 file at the root folder of your project. Then, updating an extension is as simple as publishing again.
 
 Upon publishing your extension, you will receive a URL to the extension bundle. This URL can be inserted
-into a DoubleDutch mobile app as a new menu section in the [CMS](https://cms.doubledutch.me) or
-[Studio](https://studio.doubledutch.me) by adding it as a Web View. Simply paste the mobile URL which will
+into a DoubleDutch mobile app as a new menu section in the [CMS](https://cms.doubledutch.me) by adding it as a Web View. Simply paste the mobile URL which will
 be of the form:
 
 ```
