@@ -56,8 +56,7 @@ React Native|Facebook|MIT|0.46.4|https://github.com/facebook/react-native||A fra
 React Native Camera||MIT|0.9.5|https://github.com/react-native-community/react-native-camera||A Camera component for React Native. Also supports barcode scanning!|7.15.0|https://github.com/react-native-community/react-native-camera/blob/master/LICENSE
 React Native Fetch Blob||MIT||https://github.com/wkh237/react-native-fetch-blob||A project committed to making file access and data transfer easier, efficient for React Native developers.|7.15.0|https://github.com/wkh237/react-native-fetch-blob/blob/master/LICENSE
 React Native Invoke||MIT|0.2.2|https://www.npmjs.com/package/react-native-invoke||Invoke any native code directly from Javascript in React Native (without wrapping it first with a native manager). Gives you full access from JS to all native API of iOS and Android. |7.15.0|https://spdx.org/licenses/MIT.html
-React Native Video||MIT||https://github.com/react-native-community/react-native-video||A &lt;Video&gt; component for react-native|7.15.0|https://github.com/react-native-community/react-native-video/blob/master/LICENSE
-React Native Youtube||MIT|1.0.0-beta.3|https://github.com/inProgress-team/react-native-youtube||A &lt;YouTube /&gt; component for React Native.|7.15.0|https://github.com/inProgress-team/react-native-youtube/blob/master/LICENSE
+
 
 ## iOS
 
@@ -74,3 +73,6 @@ react-native-youtube|inProgress|MIT|1.0.0|https://github.com/inProgress-team/rea
 Realm|Realm|Apache License 2.0|2.8.1|https://github.com/realm/realm-cocoa||Realm is a mobile database that runs directly inside phones|7.15.0|https://github.com/realm/realm-cocoa/blob/master/LICENSE
 DiffMatchPatch|N/A|Apache License 2.0|0.1.2|No longer available|REPLACE|Provides diff support for react native bundle downloads|7.15.0|No longer available
 SocketRocket|Facebook|BSD|0.4.1|https://github.com/facebook/SocketRocket||Provides websocket support for react native|7.15.0|https://github.com/facebook/SocketRocket/blob/master/LICENSE
+
+
+```v3```
