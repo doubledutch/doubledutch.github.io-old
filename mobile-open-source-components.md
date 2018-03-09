@@ -1,6 +1,6 @@
 # Mobile Client Open Source Components
-* [Android](#Android)
-* [iOS](#iOS)
+* [Android](#android)
+* [iOS](#ios)
 
 ## Android
 Component Name | Vendor | License | Version | Component Location | Committish / Rev | Description | DD Version Added | License URL
