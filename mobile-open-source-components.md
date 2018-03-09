@@ -5,7 +5,7 @@
 ## Android
 Component Name | Vendor | License | Version | Component Location | Committish / Rev | Description | DD Version Added | License URL
 ---------------|--------|---------|---------|--------------------|------------------|-------------|------------------|--------------
-com.android.support:appcompat-v7|Google|Apache 2.0|25.1.0|https://dl.google.com/dl/android/maven2/index.html||These Support Library classes provide backward-compatible implementations of important, core platform features. |7.15.0|https://source.android.com/setup/licenses
+Sentry.Framework|Sentry.io|BSD 3-Clause|3.11.0|https://github.com/getsentry/sentry-cocoa/releases/tag/3.11.0||Crash reporter|7.15.0|https://github.com/getsentry/sentry/blob/master/LICENSE
 
 
 
@@ -26,4 +26,4 @@ DiffMatchPatch|N/A|Apache License 2.0|0.1.2|No longer available|REPLACE|Provides
 SocketRocket|Facebook|BSD|0.4.1|https://github.com/facebook/SocketRocket||Provides websocket support for react native|7.15.0|https://github.com/facebook/SocketRocket/blob/master/LICENSE
 
 
-```v4```
+```v5```
