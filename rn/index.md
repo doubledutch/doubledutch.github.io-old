@@ -1,4 +1,4 @@
-## DoubleDutch Development Kit
+## DoubleDutch Development Platform
 
 The DoubleDutch development platform supports developing standalone extensions that can be hosted
 within the DoubleDutch mobile app. Extensions are written in Javascript using the React Native framework.
@@ -123,7 +123,7 @@ See [@doubledutch/firebase-connector] for more details.
 
 Once you have finished development, you will need to be provisioned for a DoubleDutch developer account
 before you can publish and install the extension in an event app. To request your developer credentials,
-please submit a request [here](https://customersupport.doubledutch.me/hc/en-us/requests/new).
+please submit a request [here](https://developer.doubledutch.me/hc/en-us/requests/new).
 
 Next, use your developer credentials to authenticate via the `doubledutch` command line tools:
 
