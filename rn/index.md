@@ -1,4 +1,4 @@
-## DoubleDutch Development Platform
+## DoubleDutch Developer Platform
 
 The DoubleDutch development platform supports developing standalone extensions that can be hosted
 within the DoubleDutch mobile app. Extensions are written in Javascript using the React Native framework.
