@@ -7,13 +7,23 @@ within the DoubleDutch mobile app. Extensions are written in Javascript using th
 
 <table style="border:none;">
 <tr>
-  <td><img src="https://github.com/AdamLiechty/where-in-the-world/raw/master/samples/bay.jpg" width="250px" alt="Bay Area satellite view" /></td>
-  <td><img src="https://github.com/doubledutch/personal-leads/raw/master/personal-leads.png" width="250px" alt="Bay Area satellite view" /></td>
+  <td><img src="https://dd-bazaar.s3.amazonaws.com/discover_more/personal-leads-1.png" width="250px" alt="Personal Leads" /></td>
+  <td><img src="https://dd-bazaar.s3.amazonaws.com/discover_more/question-answer-1.png" width="250px" alt="Question & Answer" /></td>
+  <td><img src="https://dd-bazaar.s3.amazonaws.com/discover_more/ice-breaker-espionage-1.png" width="250px" alt="Ice Breaker Espionage" /></td>
+
+</tr>
+<tr>
+  <td><a href="https://github.com/doubledutch/personal-leads">Personal Leads</a></td>
+  <td><a href="https://github.com/doubledutch/question-and-answer">Question & Answer</a></td>
+  <td><a href="https://github.com/doubledutch/assassins">Ice Breaker Espionage</a></td>
+</tr>
+<tr>
+    <td><img src="https://github.com/AdamLiechty/where-in-the-world/raw/master/samples/bay.jpg" width="250px" alt="Bay Area satellite view" /></td>
 </tr>
 <tr>
   <td><a href="https://github.com/AdamLiechty/where-in-the-world">Where in the World?</a></td>
-  <td><a href="https://github.com/doubledutch/personal-leads">Personal Leads</a></td>
-</tr></table>
+</tr>
+</table>
 
 ## Developer Videos
 
