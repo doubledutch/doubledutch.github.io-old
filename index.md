@@ -23,8 +23,6 @@ Use [React Native](https://facebook.github.io/react-native/) for the frontend an
 
 [<img src="https://facebook.github.io/react-native/img/favicon.png" height="24" width="24" alt="React Native" /> Get started building React Native extensions](./rn/index.md) for the DoubleDutch platform.
 
-### Web views
+Want to simply embed a web page in a DoubleDutch app, with access to basic user and event data? [<img src="https://akamud.gallerycdn.vsassets.io/extensions/akamud/vscode-javascript-snippet-pack/0.1.5/1474455379569/Microsoft.VisualStudio.Services.Icons.Small" height="24" width="24" alt="React Native" /> Get started with web views](./webview/index.md)
 
-Want to simply embed a web page in a DoubleDutch app, with access to basic user and event data?
-
-[<img src="https://akamud.gallerycdn.vsassets.io/extensions/akamud/vscode-javascript-snippet-pack/0.1.5/1474455379569/Microsoft.VisualStudio.Services.Icons.Small" height="24" width="24" alt="React Native" /> Get started with web views](./webview/index.md)
+# [Get started with the DoubleDutch Developer Platform](./rn/)
