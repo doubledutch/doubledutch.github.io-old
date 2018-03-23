@@ -7,8 +7,8 @@ within the DoubleDutch mobile app. Extensions are written in Javascript using th
 
 <table>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=tz0Fx0YQvS0">1. Getting started with the DoubleDutch Developer Platform<img src="https://img.youtube.com/vi/tz0Fx0YQvS0/hqdefault.jpg" /></a></td>
-    <td><a href="https://www.youtube.com/watch?v=LrdQl9G8jYo">2. Using the rn-client library<img src="https://img.youtube.com/vi/LrdQl9G8jYo/hqdefault.jpg" /></a></td>
+    <td><a href="https://www.youtube.com/watch?v=tz0Fx0YQvS0">1. Getting started with the DoubleDutch Developer Platform<img src="https://img.youtube.com/vi/tz0Fx0YQvS0/hqdefault.jpg" width="400" /></a></td>
+    <td><a href="https://www.youtube.com/watch?v=LrdQl9G8jYo">2. Using the rn-client library<img src="https://img.youtube.com/vi/LrdQl9G8jYo/hqdefault.jpg" width="400" /></a></td>
   </tr>
 </table>
 
