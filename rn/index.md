@@ -3,6 +3,13 @@
 The DoubleDutch development platform supports developing standalone extensions that can be hosted
 within the DoubleDutch mobile app. Extensions are written in Javascript using the React Native framework.
 
+## Developer Videos
+
+<a href="https://www.youtube.com/watch?v=tz0Fx0YQvS0"><p>1. Getting started with the DoubleDutch Developer Platform</p><img src="https://img.youtube.com/vi/tz0Fx0YQvS0/hqdefault.jpg" /></a>
+
+
+<a href="https://www.youtube.com/watch?v=LrdQl9G8jYo"><p>2. Using the rn-client library</p><img src="https://img.youtube.com/vi/LrdQl9G8jYo/hqdefault.jpg" /></a>
+
 ## Examples
 
 <table style="border:none;">
@@ -24,11 +31,6 @@ within the DoubleDutch mobile app. Extensions are written in Javascript using th
   <td><a href="https://github.com/AdamLiechty/where-in-the-world">Where in the World?</a></td>
 </tr>
 </table>
-
-## Developer Videos
-
-1. [Getting started with the DoubleDutch Developer Platform](https://www.youtube.com/watch?v=tz0Fx0YQvS0)
-2. [Using the rn-client library](https://www.youtube.com/watch?v=LrdQl9G8jYo)
 
 ## Developer Environment
 
