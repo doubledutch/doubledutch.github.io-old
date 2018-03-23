@@ -5,10 +5,13 @@ within the DoubleDutch mobile app. Extensions are written in Javascript using th
 
 ## Developer Videos
 
-<a href="https://www.youtube.com/watch?v=tz0Fx0YQvS0"><p>1. Getting started with the DoubleDutch Developer Platform</p><img src="https://img.youtube.com/vi/tz0Fx0YQvS0/hqdefault.jpg" /></a>
+<table>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=tz0Fx0YQvS0">1. Getting started with the DoubleDutch Developer Platform<img src="https://img.youtube.com/vi/tz0Fx0YQvS0/hqdefault.jpg" /></a></td>
+    <td><a href="https://www.youtube.com/watch?v=LrdQl9G8jYo">2. Using the rn-client library<img src="https://img.youtube.com/vi/LrdQl9G8jYo/hqdefault.jpg" /></a></td>
+  </tr>
+</table>
 
-
-<a href="https://www.youtube.com/watch?v=LrdQl9G8jYo"><p>2. Using the rn-client library</p><img src="https://img.youtube.com/vi/LrdQl9G8jYo/hqdefault.jpg" /></a>
 
 ## Examples
 
