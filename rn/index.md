@@ -27,11 +27,8 @@ within the DoubleDutch mobile app. Extensions are written in Javascript using th
 
 ## Developer Videos
 
-This video quickly illustrates what is possible with the DoubleDutch development kit.
-
-More will be added soon.
-
-[Getting started with the DoubleDutch Development Kit](https://www.youtube.com/watch?v=tz0Fx0YQvS0)
+1. [Getting started with the DoubleDutch Developer Platform](https://www.youtube.com/watch?v=tz0Fx0YQvS0)
+2. [Using the rn-client library](https://www.youtube.com/watch?v=LrdQl9G8jYo)
 
 ## Developer Environment
 
