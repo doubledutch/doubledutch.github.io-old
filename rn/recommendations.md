@@ -1,5 +1,30 @@
 # Mobile
 
+## Images
+
+### base-64 encoding workaround
+DoubleDutch extensions are deployed as pure Javascript over the air, so directly bundling
+images is not supported. A workaround is to base-64 encode smaller images and paste into
+your Javascript.
+
+[This site](https://www.base64-image.de/) is good for base-64 encoding images.
+
+Copy the resulting base-64 encoded image into a file containing such encoded images, e.g.
+
+```javascript
+// images.js
+export const myImage = {uri: 'data:image/png;base64,iVBORw...'}
+```
+
+Then, you can use such images in any React Native `Image` component, e.g.
+
+```javascript
+import {myImage} from './images'
+
+// In JSX
+<Image source={myImage} />
+```
+
 # Admin
 
 ## Big Screen
