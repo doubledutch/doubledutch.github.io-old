@@ -9,7 +9,7 @@ Build extensions in hours, not weeks.
 
 - Build cross-platform extensions quickly with [React Native](https://facebook.github.io/react-native/).
 - Deploy them with our developer tools
-- Use the DoubleDutch Studio to embed extensions in your DoubleDutch event app.
+- Use the DoubleDutch CMS to embed extensions in your DoubleDutch event app.
 
 Need a backend for persisting and retrieving data securely?  Don't worry about deploying servers. Connect your extension to [Firebase](https://firebase.google.com/) from [Google Cloud Platform](https://cloud.google.com/) in minutes. Use our preconfigured project, or create your own.
 
