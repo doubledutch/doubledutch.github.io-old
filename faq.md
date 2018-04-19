@@ -17,8 +17,8 @@ In the app, attendees can navigate to extensions via the tab bar or "More" menu
 ![extensions in menu](./images/nav-extensions.png)
 ![trivia extension](./images/trivia.png)
 
-Building extensions gives a high return on investment of development time, because they run on
-both iOS and Android devices via the React Native framework.  Additionally, DDDP provides some
+Building extensions gives a high return on engineering investment, because they run on
+both iOS and Android devices via [React Native][react-native]. Additionally, DDDP provides some
 easy [backend-as-a-service options][firebase-connector].
 
 ### Can an extension access data from the rest of the app?
