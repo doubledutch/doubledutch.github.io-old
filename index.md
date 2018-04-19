@@ -1,5 +1,7 @@
 ## <img src="http://doubledutch.me/wp-content/uploads/2016/04/doubledutch-logo-300.png" height="30" alt="DoubleDutch" /> Developer Platform - [Get started](./rn/index.md)
 
+[Frequently Asked Questions](./faq)
+
 [DoubleDutch](https://doubledutch.me) apps are extensible, offering developers the ability to provide attendees
 with rich custom native experiences with minimal development effort.
 
