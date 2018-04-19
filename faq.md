@@ -46,8 +46,8 @@ Excellent! We have some questions for you:
 
 1. Would the extension work as a separate app section that attendees can reach from the menu?
    If so, it may be a good candidate for a DDDP extension.
-2. Would it require access to mobile device sensors like accelerometers, health data, AR/VR
-   capabilities, or push messaging or require access to data from other apps?  If so, DDDP
+2. Would it require access to mobile device capabilities like accelerometers, health data, AR/VR
+   capabilities, push messaging, or access to data from other apps?  If so, DDDP
    unfortunately does not support these functionalities at this time.
 3. Would the extension need to store data in a backend?
    No problem! We have deep
