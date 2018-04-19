@@ -14,8 +14,8 @@ with an administrator interface for Event Managers and Content Managers in the C
 
 In the app, attendees can navigate to extensions via the tab bar or "More" menu
 
-![extensions in menu](../images/nav-extensions.png)
-![trivia extension](../images/trivia.png)
+![extensions in menu](./images/nav-extensions.png)
+![trivia extension](./images/trivia.png)
 
 Building extensions gives a high return on investment of development time, because they run on
 both iOS and Android devices via the React Native framework.  Additionally, DDDP provides some
@@ -58,7 +58,7 @@ Excellent! We have some questions for you:
    [React Native][react-native] and optionally
    [Firebase][firebase] Realtime Database skills)?
    - "Yes": Wonderful! Developers can get started
-     [here, with videos and documentation](./index.md).
+     [here, with videos and documentation](./rn).
    - "No": That's okay!  Reach out to your DoubleDutch Customer Experience Manager or Account
      Manager for help in finding a contract developer who can build it.
 
