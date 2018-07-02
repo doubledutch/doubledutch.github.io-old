@@ -144,20 +144,17 @@ doubledutch publish
 To update an extension you have already published, first update the version number in the `package.json`
 file at the root folder of your project. Then, updating an extension is as simple as publishing again.
 
-Upon publishing your extension, you will receive a URL to the extension bundle. This URL can be inserted
-into a DoubleDutch mobile app as a new menu section in the [CMS](https://cms.doubledutch.me) by adding it as a Web View. Simply paste the mobile URL which will
-be of the form:
+### Installing your extension to an event in a DoubleDutch event app
 
-```
-https://firebasestorage.googleapis.com/v0/b/bazaar-179323.appspot.com/o/extensions%2F{extension_name}%2F{extension_version}%2Fmobile%2Findex.__platform__.0.46.4.manifest.bundle?module={extension_name}&alt=media#plugin
-```
+An Event Manager in the DoubleDutch CMS can install published extensions via the "Discover More" page in the CMS.
+Many extensions are public and appear for all CMS users. Any non-public extension can be installed with the exact
+published name of the extension (case-sensitive):
 
-Finally, install your extension to that event using the event ID from the URL in the CMS:
-
-```bash
-doubledutch install [event_id]
-```
-
+1. Visit the "Discover More" page in the DoubleDutch CMS
+2. Click the "Custom DDDP extension" tile at the bottom of the page and click the "Add Custom" button.
+3. Enter the exact published extension name.
+4. The extension will be installed to the current event in the DoubleDutch CMS and saved as a tile in your personal
+   "Discover More" page for later access.
 
 ### Reference
 
