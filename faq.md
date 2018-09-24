@@ -40,6 +40,14 @@ These will give you an idea of what is possible
 - [Ice Breaker Espionage](https://content.doubledutch.me/blog/start-your-next-event-with-ice-breaker-espionage)
 - [Safety Check](https://content.doubledutch.me/blog/have-peace-of-mind-with-safety-check)
 
+### How do event organizers install extensions to their events?
+
+Event organziers use the DoubleDutch events Content Management System to manage their events. It includes a store of extensions that can be installed to events with a single click:
+
+![extension store](./images/store.png)
+![My Info - details and installation](./images/my-info-detail.png)
+![Knowledge Share - details and installation](./images/knowledge-share-detail.png)
+
 ### I have an idea for an extension...
 
 Excellent! We have some questions for you:
