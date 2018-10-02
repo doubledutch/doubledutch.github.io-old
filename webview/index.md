@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-A web view can be embedded in any DoubleDutch event app via the DoubleDutch Studio or CMS.
+A web view can be embedded in any DoubleDutch event app via the DoubleDutch CMS.
 
 > Layout > Add New Section > Web View
 
